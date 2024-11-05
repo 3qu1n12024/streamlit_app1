@@ -7,7 +7,6 @@ Este es un archivo temporal.
 
 import numpy as np
 import streamlit as st
-import datetime
 import pandas as pd
 
 st.title("Mi Primer Proyecto con streamlit")
